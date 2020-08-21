@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey all 👋
 
 <!--
 **mrvilla/mrvilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Designer and Developer.
+
+Currently specializing in video technology and media distribution, collaborate closely with other developers, contributing to open source projects, learning new technologies, programming languages and best practices.
+
+Interested in current best practices, modern frameworks, libraries, UI/UX, etc.
+
+Personal Website: [iammrvilla](https://iammrvilla.com)
