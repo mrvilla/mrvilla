@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Designer and Developer.
+I'm a UI Designer and FE Developer.
 
 Currently specializing in video technology and media distribution, collaborate closely with other developers, contributing to open source projects, learning new technologies, programming languages and best practices.
 
-Interested in current best practices, modern frameworks, libraries, UI/UX, etc.
+Interested in current best practices, workflows, modern frameworks, libraries, UI/UX, etc.
 
 Personal Website: [iammrvilla](https://iammrvilla.com)
