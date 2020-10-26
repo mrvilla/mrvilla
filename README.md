@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a UI Designer and FE Developer.
+Henry here.
 
-Currently specializing in video technology and media distribution, collaborate closely with other developers, contributing to open source projects, learning new technologies, programming languages and best practices.
-
-Interested in current best practices, workflows, modern frameworks, libraries, UI/UX, etc.
+8 years ago I change careers from illustrator => ui designer => web developer.
+Currently building web applications with cross-functional teams. 
 
 Personal Website: [iammrvilla](https://iammrvilla.com)
