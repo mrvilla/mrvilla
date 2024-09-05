@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Henry here.
 
-8 years ago I change careers from illustrator => ui designer => web developer.
+11 years ago I change careers from illustrator => ui designer => web developer.
 Currently building web applications with cross-functional teams. 
 
 Personal Website: [iammrvilla](https://iammrvilla.com)
